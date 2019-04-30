@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignIn</string>
+
+    <string name="sign_in_title">签到领时间币</string>
+    <string name="sign_in_ruler">签到规则</string>
+    <string name="sign_in_subtitle">连续签到有时间币奖励哟</string>
+    <string name="sign_in_total_days">累计签到 %d 天</string>
+    <string name="sign_in_total_integral">时间币总数</string>
+    <string name="sign_in_goto_lottery">去抽奖</string>
+    <string name="my_sign_btn">签到</string>
+    <string name="sign_ruler_dialog_title">签到规则</string>
+    <string name="sign_ruler_dialog_ok">我知道了</string>
+</resources>
